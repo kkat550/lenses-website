@@ -4,7 +4,15 @@ body {
   flex-direction: column;
 }
 
+#discount-section {
+  background-color: bisque;
+}
+
 #hero {
-  width: 100%;
+  background-color: cornsilk;
   height: 70vh;
+}
+
+#products-section {
+  background-color: lavenderblush;
 }
